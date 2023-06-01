@@ -1,0 +1,23 @@
+#services {
+    width: 100%;
+    background-image: url(../../img/background2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box-about {
+    height: 100vh;
+}
+
+#services hr {
+    border: none;
+    height: 3px;
+    background: var(--secondary);
+    opacity: 1;
+}
+
+#services img {
+    width: 280px;
+    height: 160px;
+}

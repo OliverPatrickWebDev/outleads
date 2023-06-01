@@ -1,0 +1,12 @@
+#about {
+    width: 100%;
+    background-image: url(../../img/background3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#about img {
+    width: auto;
+    height: auto;
+}

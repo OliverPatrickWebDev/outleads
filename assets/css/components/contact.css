@@ -1,0 +1,36 @@
+#contact {
+    width: 100%;
+    background-color: var(--primary);
+
+}
+
+.social {
+    font-size: 3rem;
+}
+
+.form-control {
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+    border-bottom: solid;
+    border-color: var(--secondary);
+    border-radius: 0;
+    color: var(--text-default);
+}
+
+.form-control:focus {
+    background-color: rgba(0, 0, 0, 0);
+    outline: none;
+    border-color: #fff;
+    color: var(--text-default);
+}
+
+.btn {
+    color: var(--text-default);
+    border-color: var(--secondary);
+    
+}
+
+.btn:hover {
+    background-color: var(--secondary
+    );
+}
